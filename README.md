@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there Antonatte👋
 
 <!--
 **Antonatte1/Antonatte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://linkedin.com/in/antonattebaloyi"></a>
+
+## Introduction
+I'm a recent graduate, maybe i want to go into software development, maybe cybersecurity🤔
+
+## objective
+Studying IT has led me to developing passion for software development, support, even cybersecurity, and now i'm eager to explore to find the right fit for me. 
+
+im still working on this so please bare with me🙏
